@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+.idea/
+.vscode/
+
+data/*
+!data/construction_ebit.parquet
+!data/Реестр (1).xlsx
